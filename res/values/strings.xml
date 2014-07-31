@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ScanLanIp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="sync_prepare_title">sync_prepare_title</string>
+    <string name="sync_start_status_connecting">sync_start_status_connecting</string>
+    <string name="sync_start_status_send">sync_start_status_send</string>
+    <string name="sync_start_status_discover">Starting discovering</string>
+
+</resources>

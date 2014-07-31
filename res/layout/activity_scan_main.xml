@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"  
+  android:layout_width="fill_parent"  
+  android:layout_height="fill_parent">  
+
+  
+    <ListView
+        android:id="@+id/lsv_ips"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_above="@+id/btn_search" >
+    </ListView>
+    
+     <Button
+       android:id="@+id/btn_search"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:text="Discovering"
+       android:layout_alignParentBottom="true" 
+     />
+    
+</RelativeLayout>  
